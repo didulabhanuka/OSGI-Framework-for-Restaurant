@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGI_RestaurantReservationProducer
+Bundle-SymbolicName: OSGI_RestaurantReservationProducer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: osgi_restaurantreservationproducer.Activator
+Export-Package: osgi_restaurantreservationproducer
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
